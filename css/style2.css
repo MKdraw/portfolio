@@ -1,0 +1,123 @@
+#name a{
+    text-decoration: none;
+    color: #118A7E;
+    font-family: "Sacramento";
+    font-style: italic;
+    font-size: 3rem;
+    font-weight: 600;
+    float: left;
+    padding-left: 5px;
+    margin-right: 8rem;
+}
+#name a:hover{
+    color: #3BAEA0;
+    
+}
+body{
+    background: #93E4C1;
+    margin:0;    
+}
+.images{
+    
+    width: 100%;
+    height: auto;
+    overflow:auto;
+    margin-top: 3%;
+    margin-bottom: 2%;
+
+}
+#img1{
+    width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 140px;
+}
+.navigation{
+    font-weight: 100;
+    color: #118A7E;
+    font-family: "Supermercado One";
+    text-decoration: none;
+    font-size: 1.6rem;
+    position: relative;
+    text-align: center;
+}
+table{
+    border-spacing: 1rem;
+    display: inline-block;
+}
+#twtr{
+    width:50px;
+    float: right;
+   margin-right: 20px;
+}
+#ytb{
+    width:50px;
+    float: right;
+   margin-right: 20px;
+}
+.navigation:hover {
+    color: #3BAEA0;
+    text-decoration: underline;
+}
+
+.images{
+    margin-top: 50px;
+}
+
+.imgs {
+    width: 49%;
+    border: solid 5px;
+    border-color: #1F6F78;
+    margin-top: 5px;
+}
+#imge1{
+    float: left;
+}
+#imge2{
+    float: right;
+}
+#imge4{
+    float: left;
+}
+#imge3{
+    float: right;
+    height: 1354.08px;
+}
+#imge6{
+    float: right;
+}
+#imge5{
+    float: left;
+}
+#imge7{
+    float: left;
+}
+#imge8{
+    float: right;
+}
+#imge9{
+    float: left;
+}
+#imge10{
+    float: right;
+}
+#imge11{
+    float: left;
+}
+#imge12{
+    float: right;
+}
+#tag a{
+    color: #118A7E;
+}
+#tag a:hover{
+    
+    color: #3BAEA0;
+}
+footer{
+    text-align: center;
+    color: #118A7E;
+    font-family: "Raleway";
+    font-size: 20px;
+}

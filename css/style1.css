@@ -1,0 +1,144 @@
+#name a{
+    text-decoration: none;
+    color: #118A7E;
+    font-family: "Sacramento";
+    font-style: italic;
+    font-size: 3rem;
+    font-weight: 600;
+    float: left;
+    padding-left: 5px;
+    margin-right: 8rem;
+}
+#name a:hover{
+    color: #3BAEA0;
+    
+}
+body{
+    background: #93E4C1;
+    margin:0;    
+}
+#imgs {
+    width: 100%;
+    height: auto;
+    overflow:auto;
+    margin-top: 3%;
+    margin-bottom: 2%;
+}
+#img1{
+    width: 900px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 140px;
+}
+.navigation{
+    font-weight: 100;
+    color: #118A7E;
+    font-family: "Supermercado One";
+    text-decoration: none;
+    font-size: 1.6rem;
+    position: relative;
+    text-align: center;
+}
+table{
+    border-spacing: 1rem;
+    display: inline-block;
+}
+#twtr{
+    width:50px;
+    float: right;
+   margin-right: 20px;
+}
+#ytb{
+    width:50px;
+    float: right;
+   margin-right: 20px;
+}
+.navigation:hover {
+    color: #3BAEA0;
+    text-decoration: underline;
+}
+.images {
+    width: 49%;
+    border: solid 5px;
+    border-color: #1F6F78;
+    margin-top: 5px;
+}
+#imge1{
+    float: right;
+}
+#imge19{
+    float: right;
+}
+#imge21{
+    float: left;
+}
+#imge9{
+    float: right;
+}
+#imge11{
+    float: left;
+}
+#imge10 {
+    float: left;
+}    
+#imge15 {
+    float: left;
+}      
+#imge18 {
+    float: left;
+}  
+#imge2{
+    float: right;
+}    
+#imge22{
+    float: right;
+}
+#imge12 {
+    float: right;
+}
+#imge14 {
+    float: right;
+}
+#imge3{
+    float: left;
+}
+#imge4 {
+    float:left;
+}
+#imge7 {
+    float: left;
+}
+#imge8{
+    float: left;
+}
+#imge5{
+    float: right;
+}
+#imge6 {
+    float: right;
+}
+#imge16 {
+    float: right;
+}
+#imge17 {
+    float:  left;
+}
+#imge13 {
+    float: left;
+}
+
+#tag a{
+    color: #118A7E;
+}
+#tag a:hover{
+    
+    color: #3BAEA0;
+}
+#footer{
+    text-align: center;
+    color: #118A7E;
+    font-family: "Raleway";
+    font-size: 20px;
+    margin-top: 2px;
+}
